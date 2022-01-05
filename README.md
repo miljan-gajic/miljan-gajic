@@ -6,7 +6,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miljan-gajic&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miljan-gajic&show_icons=true&theme=synthwave)
 
 <!---
 miljan-gajic/miljan-gajic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
