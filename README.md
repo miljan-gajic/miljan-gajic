@@ -20,13 +20,6 @@ I'm a Web Developer specializing in building modern, high-performance web experi
 
 ---
 
-## 📊 GitHub Stats
-
-![Miljan's GitHub stats](https://github-readme-stats.vercel.app/api?username=miljan-gajic&show_icons=true&theme=radical)
-
-
----
-
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://linkedin.com/in/miljan-gajic-a92326137)
